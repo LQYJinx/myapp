@@ -19,3 +19,10 @@ git branch
 
 
 git merge lqy
+
+git status
+
+git push
+
+
+
